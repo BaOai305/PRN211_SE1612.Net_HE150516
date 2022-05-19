@@ -1,0 +1,16 @@
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\bin\Debug\net5.0\Inheritance_in_OOP.exe
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\bin\Debug\net5.0\Inheritance_in_OOP.deps.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\bin\Debug\net5.0\Inheritance_in_OOP.runtimeconfig.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\bin\Debug\net5.0\Inheritance_in_OOP.runtimeconfig.dev.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\bin\Debug\net5.0\Inheritance_in_OOP.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\bin\Debug\net5.0\Inheritance_in_OOP.pdb
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\obj\Debug\net5.0\Inheritance_in_OOP.csproj.AssemblyReference.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\obj\Debug\net5.0\Inheritance_in_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\obj\Debug\net5.0\Inheritance_in_OOP.AssemblyInfoInputs.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\obj\Debug\net5.0\Inheritance_in_OOP.AssemblyInfo.cs
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\obj\Debug\net5.0\Inheritance_in_OOP.csproj.CoreCompileInputs.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\obj\Debug\net5.0\Inheritance_in_OOP.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\obj\Debug\net5.0\refint\Inheritance_in_OOP.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\obj\Debug\net5.0\Inheritance_in_OOP.pdb
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\obj\Debug\net5.0\Inheritance_in_OOP.genruntimeconfig.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Inheritance_in_OOP\obj\Debug\net5.0\ref\Inheritance_in_OOP.dll
