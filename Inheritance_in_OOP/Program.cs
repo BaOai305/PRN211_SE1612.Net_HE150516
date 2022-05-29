@@ -12,6 +12,8 @@ namespace Inheritance_in_OOP
             {
                 Console.WriteLine(i);
             }
+            
+
 
         }
     }
