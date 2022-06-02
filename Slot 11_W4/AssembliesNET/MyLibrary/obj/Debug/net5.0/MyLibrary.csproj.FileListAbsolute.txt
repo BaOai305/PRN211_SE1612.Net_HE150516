@@ -1,0 +1,12 @@
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\bin\Debug\net5.0\MyLibrary.deps.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\bin\Debug\net5.0\MyLibrary.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\bin\Debug\net5.0\MyLibrary.pdb
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.AssemblyReference.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\obj\Debug\net5.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfoInputs.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfo.cs
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.CoreCompileInputs.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\obj\Debug\net5.0\MyLibrary.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\obj\Debug\net5.0\refint\MyLibrary.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\obj\Debug\net5.0\MyLibrary.pdb
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 11_W4\AssembliesNET\MyLibrary\obj\Debug\net5.0\ref\MyLibrary.dll

@@ -1,0 +1,16 @@
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\bin\Debug\net5.0\FileClassDemonstration_01.exe
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\bin\Debug\net5.0\FileClassDemonstration_01.deps.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\bin\Debug\net5.0\FileClassDemonstration_01.runtimeconfig.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\bin\Debug\net5.0\FileClassDemonstration_01.runtimeconfig.dev.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\bin\Debug\net5.0\FileClassDemonstration_01.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\bin\Debug\net5.0\FileClassDemonstration_01.pdb
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\obj\Debug\net5.0\FileClassDemonstration_01.csproj.AssemblyReference.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\obj\Debug\net5.0\FileClassDemonstration_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\obj\Debug\net5.0\FileClassDemonstration_01.AssemblyInfoInputs.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\obj\Debug\net5.0\FileClassDemonstration_01.AssemblyInfo.cs
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\obj\Debug\net5.0\FileClassDemonstration_01.csproj.CoreCompileInputs.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\obj\Debug\net5.0\FileClassDemonstration_01.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\obj\Debug\net5.0\refint\FileClassDemonstration_01.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\obj\Debug\net5.0\FileClassDemonstration_01.pdb
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\obj\Debug\net5.0\FileClassDemonstration_01.genruntimeconfig.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileClassDemonstration_01\obj\Debug\net5.0\ref\FileClassDemonstration_01.dll

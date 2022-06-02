@@ -1,0 +1,16 @@
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\bin\Debug\net5.0\FileInfoClassDemonstration.exe
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\bin\Debug\net5.0\FileInfoClassDemonstration.deps.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\bin\Debug\net5.0\FileInfoClassDemonstration.runtimeconfig.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\bin\Debug\net5.0\FileInfoClassDemonstration.runtimeconfig.dev.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\bin\Debug\net5.0\FileInfoClassDemonstration.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\bin\Debug\net5.0\FileInfoClassDemonstration.pdb
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\obj\Debug\net5.0\FileInfoClassDemonstration.csproj.AssemblyReference.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\obj\Debug\net5.0\FileInfoClassDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\obj\Debug\net5.0\FileInfoClassDemonstration.AssemblyInfoInputs.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\obj\Debug\net5.0\FileInfoClassDemonstration.AssemblyInfo.cs
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\obj\Debug\net5.0\FileInfoClassDemonstration.csproj.CoreCompileInputs.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\obj\Debug\net5.0\FileInfoClassDemonstration.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\obj\Debug\net5.0\refint\FileInfoClassDemonstration.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\obj\Debug\net5.0\FileInfoClassDemonstration.pdb
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\obj\Debug\net5.0\FileInfoClassDemonstration.genruntimeconfig.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\Slot 12_W4\FileInfoClassDemonstration\obj\Debug\net5.0\ref\FileInfoClassDemonstration.dll
