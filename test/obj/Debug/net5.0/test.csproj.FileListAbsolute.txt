@@ -1,0 +1,16 @@
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\bin\Debug\net5.0\test.exe
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\bin\Debug\net5.0\test.deps.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\bin\Debug\net5.0\test.runtimeconfig.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\bin\Debug\net5.0\test.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\bin\Debug\net5.0\test.pdb
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\obj\Debug\net5.0\test.csproj.AssemblyReference.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\obj\Debug\net5.0\test.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\obj\Debug\net5.0\refint\test.dll
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\obj\Debug\net5.0\test.pdb
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\obj\Debug\net5.0\test.genruntimeconfig.cache
+E:\2022\PRN211\PRN211_OaiPB_HE150516\test\obj\Debug\net5.0\ref\test.dll
