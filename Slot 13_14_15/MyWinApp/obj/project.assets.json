@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\2022\\PRN211\\PRN211_OaiPB_HE150516\\Slot 13_14_15\\MyWinApp\\MyWinApp.csproj",
-      "projectName": "MyWinApp",
-      "projectPath": "E:\\2022\\PRN211\\PRN211_OaiPB_HE150516\\Slot 13_14_15\\MyWinApp\\MyWinApp.csproj",
+      "projectUniqueName": "E:\\2022\\PRN211\\PRN211_OaiPB_HE150516\\Slot 13_14_15\\MyWinApp\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "E:\\2022\\PRN211\\PRN211_OaiPB_HE150516\\Slot 13_14_15\\MyWinApp\\Test.csproj",
       "packagesPath": "C:\\Users\\Phamb\\.nuget\\packages\\",
       "outputPath": "E:\\2022\\PRN211\\PRN211_OaiPB_HE150516\\Slot 13_14_15\\MyWinApp\\obj\\",
       "projectStyle": "PackageReference",
