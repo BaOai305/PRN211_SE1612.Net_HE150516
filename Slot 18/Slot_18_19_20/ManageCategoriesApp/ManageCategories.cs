@@ -56,7 +56,8 @@ namespace ManageCategoriesApp
         {
             connection = new SqlConnection(ConnectionString);
             //CategoryID is identiry
-            command = new SqlCommand("Insert Categories value(@CategoryName)", connection);
+            command = new SqlCommand("Insert Categories values(@CategoryName)", connection);
+            command.Parameters.AddWithValue("@CategoryName", category.CategoryName);
             try
             {
                 connection.Open();

@@ -37,6 +37,7 @@ namespace ManageCategoriesApp
             try
             {
                 var category = new Category { CategoryName = txtCategoryName.Text };
+                Console.WriteLine(category.CategoryName);
                 manageCategories.InsertCategory(category);
                 LoadCategories();
             }
