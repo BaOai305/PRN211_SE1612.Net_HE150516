@@ -19,7 +19,7 @@ namespace ManageCategoriesApp
     {
         SqlConnection connection;
         SqlCommand command;
-        string ConnectionString = "Server=(local);uid=sa;pwd=123;database=MyStorem";
+        string ConnectionString = "Server=(local);uid=sa;pwd=123;database=MyStore";
         public List<Category> GetCategories()
         {
             List<Category> categories = new List<Category>();
