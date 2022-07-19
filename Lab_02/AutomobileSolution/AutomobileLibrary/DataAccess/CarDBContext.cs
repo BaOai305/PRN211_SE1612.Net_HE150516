@@ -89,7 +89,8 @@ namespace AutomobileLibrary.DataAccess
             }
             finally
             {
-                dataReader.Close(); CloseConnection();
+                dataReader.Close(); 
+                CloseConnection();
             }
             return car;
         }
